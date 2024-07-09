@@ -1,1 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Openings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .category {
+            background: #fff;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .category-title {
+            font-size: 1.5em;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .job-listing {
+            background: #f9f9f9;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            padding: 10px 20px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .job-title {
+            font-size: 1.2em;
+            color: #555;
+            margin-bottom: 5px;
+        }
+        .job-details {
+            margin-bottom: 10px;
+        }
+        .requirements {
+            font-weight: bold;
+            color: #777;
+            margin-bottom: 5px;
+        }
+        .location {
+            color: #777;
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            font-size: 1.1em;
+            font-weight: bold;
+            font-style: italic;
+            color: #333;
+        }
+        .contact-info a {
+            color: #007BFF;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
+<div class="container">
+    <h1>Job Openings in Malaysia</h1>
+    <p>We are seeking candidates for various IT and technical roles across different categories. Please find the available positions below:</p>
+
+    <!-- Web Development Category -->
+    <div class="category">
+        <div class="category-title">Web Development</div>
+
+        <!-- Senior PHP Laravel - Vue Js Developer -->
+        <div class="job-listing">
+            <div class="job-title">Senior PHP Laravel - Vue Js Developer</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Minimum Experience: 2-3 years</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for Senior PHP Laravel - Vue Js Developer&body=Hey Kirthi! I'm interested in the Senior PHP Laravel - Vue Js Developer position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20Senior%20PHP%20Laravel%20-%20Vue%20Js%20Developer%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+
+        <!-- Full Stack Developer - React Native and Java Spring Boot -->
+        <div class="job-listing">
+            <div class="job-title">Full Stack Developer - React Native and Java Spring Boot</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Minimum Experience: 3+ years</div>
+                <div class="requirements">Skills: React Native, Java Spring Boot</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for Full Stack Developer - React Native and Java Spring Boot&body=Hey Kirthi! I'm interested in the Full Stack Developer - React Native and Java Spring Boot position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20Full%20Stack%20Developer%20-%20React%20Native%20and%20Java%20Spring%20Boot%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cloud Development Category -->
+    <div class="category">
+        <div class="category-title">Cloud Development</div>
+
+        <!-- Cloud Developer (Digital Banking) -->
+        <div class="job-listing">
+            <div class="job-title">Cloud Developer (Digital Banking)</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Skills: Java (Spring Boot), Node.JS Express, Cloud administration (IAM, AWS SSO, Landing Zone)</div>
+                <div class="requirements">Experience: MariaDB/MySQL, Oracle, MSSQL, container technologies like Kubernetes</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for Cloud Developer (Digital Banking)&body=Hey Kirthi! I'm interested in the Cloud Developer (Digital Banking) position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20Cloud%20Developer%20(Digital%20Banking)%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Development Category -->
+    <div class="category">
+        <div class="category-title">Mobile Development</div>
+
+        <!-- React Native Developer -->
+        <div class="job-listing">
+            <div class="job-title">React Native Developer</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Skills: Git version control, Bootstrap/equivalent CSS frameworks, Mobile/Web apps, React Native</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for React Native Developer&body=Hey Kirthi! I'm interested in the React Native Developer position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20React%20Native%20Developer%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Project Management Category -->
+    <div class="category">
+        <div class="category-title">Project Management</div>
+
+        <!-- IT Project Manager -->
+        <div class="job-listing">
+            <div class="job-title">IT Project Manager</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Minimum Experience: 2 years as Project Manager</div>
+                <div class="requirements">Skills: Software application project management</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for IT Project Manager&body=Hey Kirthi! I'm interested in the IT Project Manager position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20IT%20Project%20Manager%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Infrastructure Engineering Category -->
+    <div class="category">
+        <div class="category-title">Infrastructure Engineering</div>
+
+        <!-- Wintel Engineer -->
+        <div class="job-listing">
+            <div class="job-title">Wintel Engineer</div>
+            <div class="job-details">
+                <div class="location">Location: Kuala Lumpur</div>
+                <div class="requirements">Experience: VMware Certified Professional certificates, 5-7 years, VMware ESXI/VCenters, Windows/Linux OS support</div>
+            </div>
+            <div class="contact-info">
+                <a href="mailto:kirthiga.selvaretnam@srkay.com?subject=Application for Wintel Engineer&body=Hey Kirthi! I'm interested in the Wintel Engineer position as listed on your link. My details are below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent location:%0D%0AExpected salary:">Apply via Email</a>
+                <a href="https://wa.me/60124964787?text=Hey%20Kirthi!%20I'm%20interested%20in%20the%20Wintel%20Engineer%20position%20as%20listed%20on%20your%20link.%20My%20details%20are%20below:%0D%0AName:%0D%0ANationality:%0D%0ACurrent%20location:%0D%0AExpected%20salary:">Apply via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
